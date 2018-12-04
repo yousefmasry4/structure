@@ -1,4 +1,4 @@
-stracture
+structure
 
 The program contains functions which do the following functions: 
     • A function that read a list of Employees data.
